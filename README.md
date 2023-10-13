@@ -18,3 +18,9 @@ This VR game contains two different games. The first is the CapCatch game, the s
 In CapCatch, the player manages the goalkeeper. Opposite him is a turret that throws a ball. He/she has to catch the balls from the turret and throw them into the basket. He/she earns 1 point with each ball thrown into the basket and wins the game when he/she reaches 10 points. If he cannot catch the ball from the turret and the turret scores a goal, he/she loses 1 point. If it has -10 points, the player loses the game. 
 
 In the Dart game, the player throws the dart sticks at the dart board. According to the numbers he/she hits, the player earns points in the dart game rules. When the score reaches a certain number, the player wins the game. Every 5 shots it moves away from the board. He/she has 15 throws. If he/she does not reach the desired score in all 15 shots, the player loses the game.
+
+Game Video              
+https://youtu.be/3TnbWIqOECM
+
+Windows Build         
+https://drive.google.com/file/d/1COyPB9LubsxdnZqAt7SK-Dh0n3_gXega/view?usp=sharing
